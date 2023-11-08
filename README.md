@@ -1,5 +1,6 @@
 # Assignment-2-EE301
 This is an assignment in which we transmit a bit stream through Arduino and show square waves in oscilloscope. 5V for 1 and 0V for 0. There are two output waveforms in the oscilloscope. The pink wave is the original output from Arduino. The Yellow one is the output obtained after including 2m wire and a 100k ohm resistor in the circuit. 
+Circuit: Connect GND pin of the arduino to the negative terminal of oscilloscope and TX pin of arduino to the positive terminal of oscilloscope.  
 # Team Members
 ## 1.Aswini Samantray-12140360
 ## 2.Sujeet Kumar-12141610
